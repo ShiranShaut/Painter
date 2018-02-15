@@ -1,0 +1,84 @@
+﻿Build started 28/03/2017 12:24:00.
+     1>Project "C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Paint\Paint.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Paint.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Paint.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Paint.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Paint.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AddColor.cpp AddShape.cpp command.cpp DeleteShape.cpp MyEllipse.cpp Myhexagonal.cpp MyLine.cpp MyPentagon.cpp MyRectangle.cpp MyShape.cpp MyTrapeze.cpp MyTriangle.cpp OpeningScreen.cpp Paint.cpp PaintDlg.cpp
+         PaintDlg.cpp
+         Paint.cpp
+         OpeningScreen.cpp
+         MyTriangle.cpp
+         MyTrapeze.cpp
+         MyShape.cpp
+         MyRectangle.cpp
+         MyPentagon.cpp
+     1>c:\users\shiran shaut\desktop\shiran\לימודים\paint\paint\mypentagon.cpp(14): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         MyLine.cpp
+         Myhexagonal.cpp
+     1>c:\users\shiran shaut\desktop\shiran\לימודים\paint\paint\myhexagonal.cpp(15): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\shiran shaut\desktop\shiran\לימודים\paint\paint\myhexagonal.cpp(18): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         MyEllipse.cpp
+         DeleteShape.cpp
+         command.cpp
+         AddShape.cpp
+         AddColor.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0409" /IDebug\ /nologo /fo"Debug\Paint.res" Paint.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Paint.exe.embed.manifest.res" Debug\Paint_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Paint.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.lib" /MACHINE:X86 Debug\Paint.res
+         Debug\Paint.exe.embed.manifest.res
+         Debug\AddColor.obj
+         Debug\AddShape.obj
+         Debug\command.obj
+         Debug\DeleteShape.obj
+         Debug\MyEllipse.obj
+         Debug\Myhexagonal.obj
+         Debug\MyLine.obj
+         Debug\MyPentagon.obj
+         Debug\MyRectangle.obj
+         Debug\MyShape.obj
+         Debug\MyTrapeze.obj
+         Debug\MyTriangle.obj
+         Debug\OpeningScreen.obj
+         Debug\Paint.obj
+         Debug\PaintDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\Paint.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Paint.exe.embed.manifest" /manifest Debug\Paint.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Paint.exe.embed.manifest.res" Debug\Paint_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Paint.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.lib" /MACHINE:X86 Debug\Paint.res
+         Debug\Paint.exe.embed.manifest.res
+         Debug\AddColor.obj
+         Debug\AddShape.obj
+         Debug\command.obj
+         Debug\DeleteShape.obj
+         Debug\MyEllipse.obj
+         Debug\Myhexagonal.obj
+         Debug\MyLine.obj
+         Debug\MyPentagon.obj
+         Debug\MyRectangle.obj
+         Debug\MyShape.obj
+         Debug\MyTrapeze.obj
+         Debug\MyTriangle.obj
+         Debug\OpeningScreen.obj
+         Debug\Paint.obj
+         Debug\PaintDlg.obj
+         Debug\stdafx.obj
+         Paint.vcxproj -> C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Debug\Paint.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Paint.unsuccessfulbuild".
+         Touching "Debug\Paint.lastbuildstate".
+     1>Done Building Project "C:\Users\Shiran Shaut\Desktop\Shiran\לימודים\paint\Paint\Paint.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.11

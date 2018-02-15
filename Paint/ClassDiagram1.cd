@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PaintDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyEllipse" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MyEllipse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Myhexagonal" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAIAAAAAAAAAAAAAAAAAAAAAAAAABgAAA=</HashCode>
+      <FileName>Myhexagonal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLine" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAAAAiAAA=</HashCode>
+      <FileName>MyLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPentagon" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAoAAA=</HashCode>
+      <FileName>MyPentagon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRectangle" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MyRectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyShape" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAgDABAAIAAgQAZCBIAEACAAAoAgAAAAAAFgAAA=</HashCode>
+      <FileName>MyShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyTrapeze" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAEAAAAAAAgAAAgAAA=</HashCode>
+      <FileName>MyTrapeze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyTriangle" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAKAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>MyTriangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpeningScreen" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEAAAAAAAAIABAAAAAAAAAAAAIAEAAAAAIAAAA=</HashCode>
+      <FileName>OpeningScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaintApp" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAA=</HashCode>
+      <FileName>Paint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaintDlg" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIC4AAFGisPgNP9ogBGRhDBCKVGCAAQASCIFGCESApE=</HashCode>
+      <FileName>PaintDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
